@@ -59,4 +59,66 @@ header .nav ul li a:hover{
 }
 
 
+.section1{
+    background-color: #f9f9ff;
+    width: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+}
+
+
+.div1, .div2{
+    width: 50%;
+}
+
+
+.div1{
+   margin-left: 230px;
+   margin-bottom: 120px;
+}
+
+
+.div2{
+    padding-right: 160px;
+}
+
+
+.div2 img{
+    max-width: 100%;
+    height: auto;
+}
+
+
+ .div1 h1{
+    font-size: 50px;
+}
+
+
+.div1 h3{
+  color: grey;
+}
+
+
+.button{
+    color: rgb(240, 236, 236);
+    border: 1px solid rgb(243, 241, 245);
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+    border-radius: 30px;
+    background-color: #7f97ff;
+    outline: none;
+    font-size: 15px;
+}
+
+
+.button:hover{
+    box-shadow: 5px 10px 30px rgba(130,147,255,0.5);
+    transition: all 0.5s ease-in ;
+}
+
+
+
+
 
