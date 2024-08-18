@@ -169,7 +169,7 @@ header .nav ul li a:hover{
 }
 
 
-.section3 
+
 
 
 .div5 h1{
@@ -182,4 +182,45 @@ header .nav ul li a:hover{
 .div5 p{
     color: rgba(0,0,0,0.6);
     
+}
+
+
+.div6{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+
+.div7, .div8{
+    width: 100%;
+    overflow: hidden;
+}
+
+
+.div7 div, .div8 div{
+    width: 32%;
+    float: left;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+.div8{
+    padding-top: 40px;
+}
+
+
+.div6 i{
+   font-size: 50px;
+   color: rgba(0,0,0,0.7); 
+}
+
+
+.div6 h1 {
+    color: rgba(0,0,0,0.9);
+}
+
+
+.div6 p{
+    color: rgba(0,0,0,0.6);
 }
