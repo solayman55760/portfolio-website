@@ -224,3 +224,75 @@ header .nav ul li a:hover{
 .div6 p{
     color: rgba(0,0,0,0.6);
 }
+
+
+.div7 div:hover{
+  background-color: rgb(176, 176, 228) ;
+  color: white;
+}
+
+
+.div8 div:hover{
+    background-color: rgb(167, 167, 235) ;
+   
+  }
+
+
+  .div8 div:hover p{
+    color: rgb(22,58,219);
+  }
+
+
+  .div8 div:hover i{
+    color: rgb(253,98,8);
+  }
+
+
+  .div8 div:hover h1{
+    color: rgb(224, 175, 13);
+  }
+
+
+  .div7 div:hover p{
+    color: rgb(22, 58, 219);
+  }
+
+
+  .div7 div:hover i{
+    color: rgb(253, 98, 8);
+  }
+
+
+  .div7 div:hover h1{
+    color: rgb(224,175,13);
+  }
+
+
+  .section4{
+    width: 100%;
+    height: 250px;
+    background-color:#8293ff ;
+  }
+
+
+  .section4 div{
+    float: left;
+    width: 20%;
+    margin: 0 auto;
+    position: relative;
+    top: 100px;
+    left: 190px;
+  }
+
+
+  .section4 h1,p{
+    text-align: center;
+    color: white;
+ 
+  }
+
+
+  .section4 h1{
+    font-size: 40px;
+    line-height: 1px;
+  }
