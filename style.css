@@ -161,6 +161,25 @@ header .nav ul li a:hover{
 }
 
 
+.section3{
+    width: 100%;
+    height: 650px;
+    margin: 0 auto;
+    text-align: center;
+}
 
 
+.section3 
 
+
+.div5 h1{
+    font-size: 40px;
+    color: rgb(240, 15, 240);
+    line-height: 10px;
+}
+
+
+.div5 p{
+    color: rgba(0,0,0,0.6);
+    
+}
