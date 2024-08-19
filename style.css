@@ -285,14 +285,35 @@ header .nav ul li a:hover{
   }
 
 
-  .section4 h1,p{
+  .section4 p{
     text-align: center;
     color: white;
- 
   }
-
 
   .section4 h1{
     font-size: 40px;
     line-height: 1px;
+    text-align: center;
+    color: white;
+  }
+
+
+  .section5{
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .section5 .text12{
+    text-align: center;
+  }
+
+  .section5 .text12 h1{
+    font-size: 40px;
+    color: rgba(0,0,0,0.7);
+  }
+
+  .section5 .text12 h3{
+    color: rgba(0,0,0,0.6);
+    margin-top: -20px;
+    margin-bottom: 30px;
   }
