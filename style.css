@@ -62,6 +62,21 @@ header .nav ul li a:hover{
 }
 
 
+.checkbtn{
+    display: none;
+    font-size: 30px;
+    color:rgba(0,0,0,0.9) ;
+    float: right;
+    line-height: 80px;
+    margin-right:-120px ;
+}
+
+
+#check{
+    display: none;
+}
+
+
 .section1{
     background-color: #f9f9ff;
     width: 100%;
@@ -506,3 +521,47 @@ header .nav ul li a:hover{
    footer .foot .foot1 i:hover{
     color: #8293ff;
    }
+
+
+
+
+@media (max-width:768px){
+    header{
+        width: 100%;
+        height: auto;
+    }
+    header .Logo{
+        margin-left: 30px;
+        padding: 20px;
+    }
+
+
+    .checkbtn{
+        display: block;
+    }
+
+    header .nav ul{
+        position:fixed ;
+        width: 100%;
+        height: 100vh;
+        background: #f9f9ff;
+        top: 54px;
+        left: -200%;
+        transition: all .1s;
+    }
+
+    header .nav ul li{
+        line-height: 30px;
+        clear: both;
+        margin-top: 15px;
+    }
+
+     #check:checked ~ ul{
+        left: 0;
+     }
+
+     header .nav ul li a{
+        font-size: 20px;
+        text-align: center;
+     }
+}
