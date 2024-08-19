@@ -623,7 +623,7 @@ header .nav ul li a:hover{
     }
 
     .div7 div .div8 div{
-        clear: ;
+        clear:left ;
         position: relative;
         width: 100%;
         height: auto;
