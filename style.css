@@ -622,7 +622,7 @@ header .nav ul li a:hover{
     }
 
     .div7 div .div8 div{
-        clear: left;
+        clear: ;
         position: relative;
         width: 100%;
         height: auto;
@@ -692,12 +692,5 @@ header .nav ul li a:hover{
 
     .foot1 .abc{
         width: 80%;
-        
-    }
-
-
-
-    
-
-    
+    } 
 }
