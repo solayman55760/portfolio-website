@@ -339,14 +339,15 @@ header .nav ul li a:hover{
 
 
   .section5 .imgg{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    grid-column-gap: 50px;
+    grid-row-gap: 50px;
+    margin: 0 auto;
     width: 80%;
     height: auto;
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    margin: 0 auto;
-    padding-top: 40px;
-  }
+}
+  
 
 
   .section5 .imgg div{
