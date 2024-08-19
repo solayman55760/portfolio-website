@@ -621,12 +621,83 @@ header .nav ul li a:hover{
         width:80%;
     }
 
-    .div6 div .div7 div{
+    .div7 div .div8 div{
         clear: left;
         position: relative;
         width: 100%;
         height: auto;
     }
+
+    .section4{
+        width: 100%;
+        height: 100vh;
+        position: relative;
+        top: 500px;
+    }
+
+    .section4 div{
+        clear: left;
+    }
+
+    .section5{
+        width: 100%;
+        height: auto;
+        position: relative;
+        top: 500px;
+    }
+
+    .section6{
+        width: 100%;
+        height: auto;
+        position: relative;
+        top: 500px;
+    }
+
+    .section6 .plan h1{
+        font-size: 35px;
+    }
+
+    .section6 .plan p{
+        width: 80%;
+        margin: auto;
+    }
+
+    .section6 .chart{
+        display: block;
+        width: 100%;
+        height: auto;
+        position: relative;
+        left: 90px;
+    }
+
+
+    footer{
+        width: 100%;
+        height: auto;
+        position: relative;
+        top: 300px;
+    }
+
+
+    .section6 .chart1{
+        margin-top: 50px;
+    }
+
+
+    footer .foot{
+        display: block;
+        position: relative;
+        top:100px;
+    }
+
+    .foot1 .abc{
+        width: 80%;
+        
+    }
+
+
+
+    
 
     
 }
